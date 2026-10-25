@@ -1,0 +1,146 @@
+[
+ {
+  "algoritmo": "bucket_concentrado",
+  "lenguaje": "java",
+  "variante": "concentrado",
+  "n": 10000,
+  "repeticiones_ns": [
+   5985534.0,
+   4714432.0,
+   4371195.0,
+   4438142.0,
+   4419753.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 4785811.2,
+  "desviacion_ns": 683960.682121202,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket_concentrado",
+  "lenguaje": "java",
+  "variante": "concentrado",
+  "n": 100000,
+  "repeticiones_ns": [
+   462391528.0,
+   493669473.0,
+   437301761.0,
+   523474356.0,
+   493628552.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 482093134.0,
+  "desviacion_ns": 33067746.375793792,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket_rango_pequeno",
+  "lenguaje": "java",
+  "variante": "rango_pequeno",
+  "n": 100000,
+  "repeticiones_ns": [
+   1185584.0,
+   1149529.0,
+   1254088.0,
+   1139970.0,
+   1173735.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 1180581.2,
+  "desviacion_ns": 44968.48006882154,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix16",
+  "lenguaje": "java",
+  "variante": "16digitos",
+  "n": 1000000,
+  "repeticiones_ns": [
+   203295737.0,
+   176358968.0,
+   189287805.0,
+   189804586.0,
+   193409062.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 190431231.6,
+  "desviacion_ns": 9670724.959940506,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket_concentrado",
+  "lenguaje": "python",
+  "variante": "concentrado",
+  "n": 10000,
+  "repeticiones_ns": [
+   1775315112.0,
+   1894609121.0,
+   1728992734.0,
+   1959721209.0,
+   1605766416.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 1792880918.4,
+  "desviacion_ns": 139271680.9338221,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket_concentrado",
+  "lenguaje": "python",
+  "variante": "concentrado",
+  "n": 100000,
+  "repeticiones_ns": [
+   159397913493.0,
+   160787182390.0,
+   163537528006.0,
+   159162696866.0,
+   160797475182.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 160736559187.4,
+  "desviacion_ns": 1740740840.2507339,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket_rango_pequeno",
+  "lenguaje": "python",
+  "variante": "rango_pequeno",
+  "n": 100000,
+  "repeticiones_ns": [
+   51739288.0,
+   35938663.0,
+   33002428.0,
+   27766943.0,
+   28987431.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 35486950.6,
+  "desviacion_ns": 9648285.339640733,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix16",
+  "lenguaje": "python",
+  "variante": "16digitos",
+  "n": 1000000,
+  "repeticiones_ns": [
+   8854003788.0,
+   8979835568.0,
+   9277917133.0,
+   8703344144.0,
+   8787701551.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 8920560436.8,
+  "desviacion_ns": 223875824.0582464,
+  "tipo": "medido",
+  "observacion": ""
+ }
+]

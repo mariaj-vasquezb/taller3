@@ -1,0 +1,20 @@
+{
+ "java": {
+  "algoritmo_orden": "bucket",
+  "nombre_orden": "Bucket Sort",
+  "t_orden_s": 0.0605172116,
+  "t_lineal_s": 0.00020728433960000002,
+  "t_binaria_s": 1.17429e-07,
+  "k_equilibrio": 292.1181352018482,
+  "k_min": 293
+ },
+ "python": {
+  "algoritmo_orden": "bucket",
+  "nombre_orden": "Bucket Sort",
+  "t_orden_s": 1.5827527632,
+  "t_lineal_s": 0.023708083498800003,
+  "t_binaria_s": 3.0519418e-06,
+  "k_equilibrio": 66.76864189757298,
+  "k_min": 67
+ }
+}

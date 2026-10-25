@@ -1,0 +1,1550 @@
+[
+ {
+  "algoritmo": "binaria",
+  "lenguaje": "java",
+  "variante": "centro",
+  "n": 1000000,
+  "repeticiones_ns": [
+   28.889,
+   28.13,
+   27.083,
+   27.431,
+   26.991
+  ],
+  "estado": "ok",
+  "promedio_ns": 27.7048,
+  "desviacion_ns": 0.7990989926160588,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "binaria",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 1000,
+  "repeticiones_ns": [
+   38.555,
+   31.047,
+   23.66,
+   21.229,
+   19.93
+  ],
+  "estado": "ok",
+  "promedio_ns": 26.8842,
+  "desviacion_ns": 7.814635736872193,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "binaria",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 10000,
+  "repeticiones_ns": [
+   61.829,
+   50.832,
+   72.738,
+   50.634,
+   50.421
+  ],
+  "estado": "ok",
+  "promedio_ns": 57.2908,
+  "desviacion_ns": 9.904979591094571,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "binaria",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 100000,
+  "repeticiones_ns": [
+   83.779,
+   74.928,
+   74.243,
+   74.232,
+   75.056
+  ],
+  "estado": "ok",
+  "promedio_ns": 76.4476,
+  "desviacion_ns": 4.115953874863031,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "binaria",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 1000000,
+  "repeticiones_ns": [
+   119.445,
+   111.201,
+   132.679,
+   114.382,
+   109.438
+  ],
+  "estado": "ok",
+  "promedio_ns": 117.429,
+  "desviacion_ns": 9.334814272389142,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "binaria",
+  "lenguaje": "java",
+  "variante": "final",
+  "n": 1000000,
+  "repeticiones_ns": [
+   32.696,
+   32.506,
+   77.426,
+   36.917,
+   50.29
+  ],
+  "estado": "ok",
+  "promedio_ns": 45.967,
+  "desviacion_ns": 19.023521440574562,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "binaria",
+  "lenguaje": "java",
+  "variante": "inicio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   35.231,
+   26.62,
+   21.808,
+   21.767,
+   21.763
+  ],
+  "estado": "ok",
+  "promedio_ns": 25.4378,
+  "desviacion_ns": 5.86213994203482,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "exponencial",
+  "lenguaje": "java",
+  "variante": "centro",
+  "n": 1000000,
+  "repeticiones_ns": [
+   37.089,
+   37.072,
+   36.914,
+   36.949,
+   36.821
+  ],
+  "estado": "ok",
+  "promedio_ns": 36.969,
+  "desviacion_ns": 0.11218065786935014,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "exponencial",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 1000,
+  "repeticiones_ns": [
+   42.427,
+   45.873,
+   45.252,
+   44.768,
+   44.383
+  ],
+  "estado": "ok",
+  "promedio_ns": 44.5406,
+  "desviacion_ns": 1.3062573636156083,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "exponencial",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 10000,
+  "repeticiones_ns": [
+   68.82,
+   95.114,
+   68.53,
+   68.1,
+   112.032
+  ],
+  "estado": "ok",
+  "promedio_ns": 82.5192,
+  "desviacion_ns": 20.13028487627535,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "exponencial",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 100000,
+  "repeticiones_ns": [
+   122.983,
+   103.973,
+   98.864,
+   113.957,
+   103.291
+  ],
+  "estado": "ok",
+  "promedio_ns": 108.6136,
+  "desviacion_ns": 9.746172571835572,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "exponencial",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 1000000,
+  "repeticiones_ns": [
+   171.142,
+   167.02,
+   194.929,
+   162.976,
+   160.078
+  ],
+  "estado": "ok",
+  "promedio_ns": 171.229,
+  "desviacion_ns": 13.891274779515378,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "exponencial",
+  "lenguaje": "java",
+  "variante": "final",
+  "n": 1000000,
+  "repeticiones_ns": [
+   45.283,
+   45.44,
+   45.066,
+   45.195,
+   45.05
+  ],
+  "estado": "ok",
+  "promedio_ns": 45.2068,
+  "desviacion_ns": 0.1618168718026641,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "exponencial",
+  "lenguaje": "java",
+  "variante": "inicio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   1.145,
+   0.398,
+   0.344,
+   0.309,
+   0.324
+  ],
+  "estado": "ok",
+  "promedio_ns": 0.504,
+  "desviacion_ns": 0.3599104055178177,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "interpolacion",
+  "lenguaje": "java",
+  "variante": "centro",
+  "n": 1000000,
+  "repeticiones_ns": [
+   11.787,
+   11.748,
+   11.648,
+   11.63,
+   11.629
+  ],
+  "estado": "ok",
+  "promedio_ns": 11.6884,
+  "desviacion_ns": 0.07390060892847918,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "interpolacion",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 1000,
+  "repeticiones_ns": [
+   13.08,
+   12.973,
+   12.74,
+   12.734,
+   12.693
+  ],
+  "estado": "ok",
+  "promedio_ns": 12.844,
+  "desviacion_ns": 0.17179493589742414,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "interpolacion",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 10000,
+  "repeticiones_ns": [
+   14.366,
+   14.048,
+   13.531,
+   13.437,
+   13.41
+  ],
+  "estado": "ok",
+  "promedio_ns": 13.7584,
+  "desviacion_ns": 0.4270354786197511,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "interpolacion",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 100000,
+  "repeticiones_ns": [
+   16.564,
+   16.002,
+   15.44,
+   15.432,
+   15.45
+  ],
+  "estado": "ok",
+  "promedio_ns": 15.7776,
+  "desviacion_ns": 0.5023731680732959,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "interpolacion",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 1000000,
+  "repeticiones_ns": [
+   23.004,
+   37.632,
+   22.229,
+   22.109,
+   22.044
+  ],
+  "estado": "ok",
+  "promedio_ns": 25.4036,
+  "desviacion_ns": 6.846737054977355,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "interpolacion",
+  "lenguaje": "java",
+  "variante": "final",
+  "n": 1000000,
+  "repeticiones_ns": [
+   3.53,
+   3.169,
+   3.11,
+   3.098,
+   3.078
+  ],
+  "estado": "ok",
+  "promedio_ns": 3.197,
+  "desviacion_ns": 0.18921152184790435,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "interpolacion",
+  "lenguaje": "java",
+  "variante": "inicio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   3.763,
+   3.888,
+   3.948,
+   3.484,
+   3.678
+  ],
+  "estado": "ok",
+  "promedio_ns": 3.7521999999999998,
+  "desviacion_ns": 0.1832571963116319,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "java",
+  "variante": "centro",
+  "n": 1000000,
+  "repeticiones_ns": [
+   104193.121,
+   98528.352,
+   104778.556,
+   112098.796,
+   152397.244
+  ],
+  "estado": "ok",
+  "promedio_ns": 114399.2138,
+  "desviacion_ns": 21781.573991313628,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 1000,
+  "repeticiones_ns": [
+   129.528,
+   129.314,
+   134.269,
+   129.558,
+   143.249
+  ],
+  "estado": "ok",
+  "promedio_ns": 133.18359999999998,
+  "desviacion_ns": 5.9994283310995575,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 10000,
+  "repeticiones_ns": [
+   1329.073,
+   1328.867,
+   1343.411,
+   1342.833,
+   1324.593
+  ],
+  "estado": "ok",
+  "promedio_ns": 1333.7554,
+  "desviacion_ns": 8.737910665599655,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 100000,
+  "repeticiones_ns": [
+   19226.904,
+   18638.351,
+   18776.013,
+   18749.838,
+   18608.245
+  ],
+  "estado": "ok",
+  "promedio_ns": 18799.870199999998,
+  "desviacion_ns": 249.11790512466166,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 1000000,
+  "repeticiones_ns": [
+   213790.115,
+   195822.091,
+   179819.798,
+   186851.111,
+   205118.25
+  ],
+  "estado": "ok",
+  "promedio_ns": 196280.273,
+  "desviacion_ns": 13645.24338652929,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "java",
+  "variante": "claves_desordenado",
+  "n": 1000000,
+  "repeticiones_ns": [
+   225160.711,
+   205910.142,
+   220749.486,
+   209707.723,
+   174893.636
+  ],
+  "estado": "ok",
+  "promedio_ns": 207284.3396,
+  "desviacion_ns": 19734.44772380561,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "java",
+  "variante": "final",
+  "n": 1000000,
+  "repeticiones_ns": [
+   228794.464,
+   221396.785,
+   218988.472,
+   254569.194,
+   297889.051
+  ],
+  "estado": "ok",
+  "promedio_ns": 244327.5932,
+  "desviacion_ns": 33101.70418288576,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "java",
+  "variante": "inicio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   0.384,
+   0.382,
+   0.315,
+   0.297,
+   0.277
+  ],
+  "estado": "ok",
+  "promedio_ns": 0.331,
+  "desviacion_ns": 0.04934065261019558,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "saltos",
+  "lenguaje": "java",
+  "variante": "centro",
+  "n": 1000000,
+  "repeticiones_ns": [
+   651.862,
+   627.526,
+   606.85,
+   623.601,
+   619.644
+  ],
+  "estado": "ok",
+  "promedio_ns": 625.8966,
+  "desviacion_ns": 16.46203738302156,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "saltos",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 1000,
+  "repeticiones_ns": [
+   25.218,
+   28.061,
+   28.11,
+   29.38,
+   29.032
+  ],
+  "estado": "ok",
+  "promedio_ns": 27.9602,
+  "desviacion_ns": 1.636829923968889,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "saltos",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 10000,
+  "repeticiones_ns": [
+   74.098,
+   79.781,
+   73.945,
+   73.817,
+   74.058
+  ],
+  "estado": "ok",
+  "promedio_ns": 75.1398,
+  "desviacion_ns": 2.5968116412246807,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "saltos",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 100000,
+  "repeticiones_ns": [
+   277.892,
+   196.922,
+   222.031,
+   194.955,
+   227.593
+  ],
+  "estado": "ok",
+  "promedio_ns": 223.8786,
+  "desviacion_ns": 33.53315781879183,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "saltos",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 1000000,
+  "repeticiones_ns": [
+   795.222,
+   728.307,
+   683.377,
+   1651.167,
+   796.824
+  ],
+  "estado": "ok",
+  "promedio_ns": 930.9793999999999,
+  "desviacion_ns": 405.4260020044348,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "saltos",
+  "lenguaje": "java",
+  "variante": "final",
+  "n": 1000000,
+  "repeticiones_ns": [
+   1807.713,
+   1769.216,
+   1729.755,
+   1739.267,
+   1752.906
+  ],
+  "estado": "ok",
+  "promedio_ns": 1759.7714,
+  "desviacion_ns": 30.643701984257657,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "saltos",
+  "lenguaje": "java",
+  "variante": "inicio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   0.745,
+   0.662,
+   0.591,
+   0.557,
+   0.56
+  ],
+  "estado": "ok",
+  "promedio_ns": 0.623,
+  "desviacion_ns": 0.08024026420694287,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "ternaria",
+  "lenguaje": "java",
+  "variante": "centro",
+  "n": 1000000,
+  "repeticiones_ns": [
+   38.012,
+   37.899,
+   69.868,
+   38.331,
+   44.844
+  ],
+  "estado": "ok",
+  "promedio_ns": 45.7908,
+  "desviacion_ns": 13.775402378878082,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "ternaria",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 1000,
+  "repeticiones_ns": [
+   17.533,
+   19.43,
+   16.864,
+   14.893,
+   14.139
+  ],
+  "estado": "ok",
+  "promedio_ns": 16.5718,
+  "desviacion_ns": 2.116334023730659,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "ternaria",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 10000,
+  "repeticiones_ns": [
+   72.766,
+   63.534,
+   64.094,
+   68.967,
+   74.176
+  ],
+  "estado": "ok",
+  "promedio_ns": 68.7074,
+  "desviacion_ns": 4.860368792591776,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "ternaria",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 100000,
+  "repeticiones_ns": [
+   78.993,
+   70.461,
+   64.671,
+   66.81,
+   64.147
+  ],
+  "estado": "ok",
+  "promedio_ns": 69.0164,
+  "desviacion_ns": 6.104940114366393,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "ternaria",
+  "lenguaje": "java",
+  "variante": "claves",
+  "n": 1000000,
+  "repeticiones_ns": [
+   141.208,
+   128.592,
+   119.109,
+   156.81,
+   132.631
+  ],
+  "estado": "ok",
+  "promedio_ns": 135.67000000000002,
+  "desviacion_ns": 14.240517634552475,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "ternaria",
+  "lenguaje": "java",
+  "variante": "final",
+  "n": 1000000,
+  "repeticiones_ns": [
+   32.963,
+   32.939,
+   32.836,
+   32.854,
+   64.886
+  ],
+  "estado": "ok",
+  "promedio_ns": 39.2956,
+  "desviacion_ns": 14.30557060378928,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "ternaria",
+  "lenguaje": "java",
+  "variante": "inicio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   43.98,
+   29.91,
+   29.789,
+   29.76,
+   31.309
+  ],
+  "estado": "ok",
+  "promedio_ns": 32.949600000000004,
+  "desviacion_ns": 6.200068572201438,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "binaria",
+  "lenguaje": "python",
+  "variante": "centro",
+  "n": 1000000,
+  "repeticiones_ns": [
+   1929.687,
+   1957.942,
+   2048.627,
+   1881.972,
+   1871.224
+  ],
+  "estado": "ok",
+  "promedio_ns": 1937.8904,
+  "desviacion_ns": 71.2447074546594,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "binaria",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 1000,
+  "repeticiones_ns": [
+   1042.439,
+   1068.451,
+   1095.058,
+   1103.466,
+   1099.17
+  ],
+  "estado": "ok",
+  "promedio_ns": 1081.7168,
+  "desviacion_ns": 25.857090569126253,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "binaria",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 10000,
+  "repeticiones_ns": [
+   1548.927,
+   1584.86,
+   1523.841,
+   1528.777,
+   1675.217
+  ],
+  "estado": "ok",
+  "promedio_ns": 1572.3244,
+  "desviacion_ns": 62.326725510009005,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "binaria",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 100000,
+  "repeticiones_ns": [
+   2035.538,
+   1957.517,
+   2002.997,
+   1881.063,
+   1880.544
+  ],
+  "estado": "ok",
+  "promedio_ns": 1951.5318,
+  "desviacion_ns": 70.26138802856086,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "binaria",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 1000000,
+  "repeticiones_ns": [
+   3583.042,
+   2964.388,
+   2924.879,
+   2833.684,
+   2953.716
+  ],
+  "estado": "ok",
+  "promedio_ns": 3051.9418,
+  "desviacion_ns": 301.3149600189144,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "binaria",
+  "lenguaje": "python",
+  "variante": "final",
+  "n": 1000000,
+  "repeticiones_ns": [
+   2251.846,
+   2031.059,
+   2043.751,
+   1983.813,
+   2073.717
+  ],
+  "estado": "ok",
+  "promedio_ns": 2076.8372,
+  "desviacion_ns": 103.05539497862301,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "binaria",
+  "lenguaje": "python",
+  "variante": "inicio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   2376.666,
+   2473.762,
+   2501.665,
+   2453.23,
+   2389.99
+  ],
+  "estado": "ok",
+  "promedio_ns": 2439.0626,
+  "desviacion_ns": 53.91029547127341,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "exponencial",
+  "lenguaje": "python",
+  "variante": "centro",
+  "n": 1000000,
+  "repeticiones_ns": [
+   2617.098,
+   2650.649,
+   2635.412,
+   2615.675,
+   2569.571
+  ],
+  "estado": "ok",
+  "promedio_ns": 2617.681,
+  "desviacion_ns": 30.49677610010603,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "exponencial",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 1000,
+  "repeticiones_ns": [
+   1446.953,
+   1616.415,
+   1446.083,
+   1481.974,
+   1478.076
+  ],
+  "estado": "ok",
+  "promedio_ns": 1493.9002,
+  "desviacion_ns": 70.52134424200943,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "exponencial",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 10000,
+  "repeticiones_ns": [
+   2098.635,
+   2038.512,
+   2024.935,
+   2044.868,
+   2023.257
+  ],
+  "estado": "ok",
+  "promedio_ns": 2046.0414,
+  "desviacion_ns": 30.776470302814225,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "exponencial",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 100000,
+  "repeticiones_ns": [
+   2974.359,
+   3003.2,
+   3492.355,
+   3138.073,
+   2850.197
+  ],
+  "estado": "ok",
+  "promedio_ns": 3091.6367999999998,
+  "desviacion_ns": 246.2720667639755,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "exponencial",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 1000000,
+  "repeticiones_ns": [
+   4554.209,
+   3786.918,
+   3255.487,
+   3414.479,
+   3342.627
+  ],
+  "estado": "ok",
+  "promedio_ns": 3670.744,
+  "desviacion_ns": 533.8018584793424,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "exponencial",
+  "lenguaje": "python",
+  "variante": "final",
+  "n": 1000000,
+  "repeticiones_ns": [
+   3498.933,
+   3608.445,
+   3565.791,
+   3536.545,
+   3456.25
+  ],
+  "estado": "ok",
+  "promedio_ns": 3533.1928000000003,
+  "desviacion_ns": 58.80200222101293,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "exponencial",
+  "lenguaje": "python",
+  "variante": "inicio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   44.842,
+   43.645,
+   43.62,
+   43.458,
+   42.769
+  ],
+  "estado": "ok",
+  "promedio_ns": 43.6668,
+  "desviacion_ns": 0.7472286798564414,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "interpolacion",
+  "lenguaje": "python",
+  "variante": "centro",
+  "n": 1000000,
+  "repeticiones_ns": [
+   805.377,
+   861.487,
+   845.64,
+   783.587,
+   784.49
+  ],
+  "estado": "ok",
+  "promedio_ns": 816.1161999999999,
+  "desviacion_ns": 35.72065248144271,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "interpolacion",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 1000,
+  "repeticiones_ns": [
+   1011.283,
+   999.616,
+   988.353,
+   980.497,
+   985.732
+  ],
+  "estado": "ok",
+  "promedio_ns": 993.0962,
+  "desviacion_ns": 12.336295177240231,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "interpolacion",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 10000,
+  "repeticiones_ns": [
+   1027.832,
+   1064.192,
+   1021.347,
+   1006.635,
+   1078.4
+  ],
+  "estado": "ok",
+  "promedio_ns": 1039.6812,
+  "desviacion_ns": 30.284164817607262,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "interpolacion",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 100000,
+  "repeticiones_ns": [
+   1460.239,
+   1129.545,
+   1210.205,
+   1202.262,
+   1190.36
+  ],
+  "estado": "ok",
+  "promedio_ns": 1238.5221999999999,
+  "desviacion_ns": 127.93614906546158,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "interpolacion",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 1000000,
+  "repeticiones_ns": [
+   1635.966,
+   1534.293,
+   1379.619,
+   1267.876,
+   1277.702
+  ],
+  "estado": "ok",
+  "promedio_ns": 1419.0911999999998,
+  "desviacion_ns": 161.80322212397374,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "interpolacion",
+  "lenguaje": "python",
+  "variante": "final",
+  "n": 1000000,
+  "repeticiones_ns": [
+   352.211,
+   318.034,
+   316.808,
+   260.804,
+   310.894
+  ],
+  "estado": "ok",
+  "promedio_ns": 311.7502,
+  "desviacion_ns": 32.781062340930944,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "interpolacion",
+  "lenguaje": "python",
+  "variante": "inicio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   223.846,
+   228.479,
+   256.318,
+   243.582,
+   227.049
+  ],
+  "estado": "ok",
+  "promedio_ns": 235.8548,
+  "desviacion_ns": 13.735064532065355,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "python",
+  "variante": "centro",
+  "n": 1000000,
+  "repeticiones_ns": [
+   17192628.705,
+   15738513.756,
+   17118343.258,
+   17426922.064,
+   16571895.43
+  ],
+  "estado": "ok",
+  "promedio_ns": 16809660.6426,
+  "desviacion_ns": 675804.9099431247,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 1000,
+  "repeticiones_ns": [
+   21630.795,
+   21673.074,
+   21675.737,
+   21642.841,
+   21282.615
+  ],
+  "estado": "ok",
+  "promedio_ns": 21581.0124,
+  "desviacion_ns": 167.92124598096512,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 10000,
+  "repeticiones_ns": [
+   224317.704,
+   241925.732,
+   244700.581,
+   221544.562,
+   221865.666
+  ],
+  "estado": "ok",
+  "promedio_ns": 230870.849,
+  "desviacion_ns": 11450.857880486465,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 100000,
+  "repeticiones_ns": [
+   2382408.07,
+   2451807.123,
+   2814745.821,
+   2427228.875,
+   2575121.008
+  ],
+  "estado": "ok",
+  "promedio_ns": 2530262.1794,
+  "desviacion_ns": 174338.14284181964,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 1000000,
+  "repeticiones_ns": [
+   24693757.499,
+   24483075.563,
+   23965083.931,
+   24326938.638,
+   24029421.948
+  ],
+  "estado": "ok",
+  "promedio_ns": 24299655.5158,
+  "desviacion_ns": 306050.6421147917,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "python",
+  "variante": "claves_desordenado",
+  "n": 1000000,
+  "repeticiones_ns": [
+   23277591.705,
+   23923677.107,
+   24389369.782,
+   23511264.212,
+   23438514.688
+  ],
+  "estado": "ok",
+  "promedio_ns": 23708083.498800002,
+  "desviacion_ns": 449266.0580087531,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "python",
+  "variante": "final",
+  "n": 1000000,
+  "repeticiones_ns": [
+   34326144.881,
+   34728647.822,
+   34068780.301,
+   34523833.914,
+   33841710.213
+  ],
+  "estado": "ok",
+  "promedio_ns": 34297823.426199995,
+  "desviacion_ns": 352842.9260559951,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "lineal",
+  "lenguaje": "python",
+  "variante": "inicio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   76.549,
+   75.035,
+   74.913,
+   87.603,
+   86.728
+  ],
+  "estado": "ok",
+  "promedio_ns": 80.1656,
+  "desviacion_ns": 6.4298653018550835,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "saltos",
+  "lenguaje": "python",
+  "variante": "centro",
+  "n": 1000000,
+  "repeticiones_ns": [
+   39701.931,
+   39948.983,
+   39776.291,
+   52812.329,
+   68816.885
+  ],
+  "estado": "ok",
+  "promedio_ns": 48211.2838,
+  "desviacion_ns": 12821.702508505692,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "saltos",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 1000,
+  "repeticiones_ns": [
+   2237.842,
+   2228.33,
+   2195.59,
+   2300.235,
+   2241.616
+  ],
+  "estado": "ok",
+  "promedio_ns": 2240.7226,
+  "desviacion_ns": 37.8858479224103,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "saltos",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 10000,
+  "repeticiones_ns": [
+   7703.519,
+   7449.773,
+   7510.93,
+   7344.75,
+   7480.862
+  ],
+  "estado": "ok",
+  "promedio_ns": 7497.9668,
+  "desviacion_ns": 130.87241480044608,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "saltos",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 100000,
+  "repeticiones_ns": [
+   21643.643,
+   21713.103,
+   21816.071,
+   22794.533,
+   33056.262
+  ],
+  "estado": "ok",
+  "promedio_ns": 24204.7224,
+  "desviacion_ns": 4970.194610689889,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "saltos",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 1000000,
+  "repeticiones_ns": [
+   71756.242,
+   84897.807,
+   101403.354,
+   80843.674,
+   93624.162
+  ],
+  "estado": "ok",
+  "promedio_ns": 86505.0478,
+  "desviacion_ns": 11454.289190519692,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "saltos",
+  "lenguaje": "python",
+  "variante": "final",
+  "n": 1000000,
+  "repeticiones_ns": [
+   177379.566,
+   154780.885,
+   156565.117,
+   180698.335,
+   226299.024
+  ],
+  "estado": "ok",
+  "promedio_ns": 179144.5854,
+  "desviacion_ns": 28863.873619936243,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "saltos",
+  "lenguaje": "python",
+  "variante": "inicio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   145.898,
+   145.044,
+   165.053,
+   139.667,
+   135.543
+  ],
+  "estado": "ok",
+  "promedio_ns": 146.241,
+  "desviacion_ns": 11.32592691570981,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "ternaria",
+  "lenguaje": "python",
+  "variante": "centro",
+  "n": 1000000,
+  "repeticiones_ns": [
+   2150.639,
+   2110.072,
+   2163.62,
+   2190.664,
+   2150.073
+  ],
+  "estado": "ok",
+  "promedio_ns": 2153.0136,
+  "desviacion_ns": 29.104618212579272,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "ternaria",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 1000,
+  "repeticiones_ns": [
+   1172.367,
+   1111.961,
+   1146.811,
+   1092.633,
+   1129.213
+  ],
+  "estado": "ok",
+  "promedio_ns": 1130.597,
+  "desviacion_ns": 30.814395759125276,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "ternaria",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 10000,
+  "repeticiones_ns": [
+   1556.968,
+   1568.288,
+   1561.731,
+   1528.32,
+   1548.197
+  ],
+  "estado": "ok",
+  "promedio_ns": 1552.7008,
+  "desviacion_ns": 15.47111772626662,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "ternaria",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 100000,
+  "repeticiones_ns": [
+   2264.837,
+   2215.063,
+   2200.668,
+   2154.265,
+   2108.75
+  ],
+  "estado": "ok",
+  "promedio_ns": 2188.7166,
+  "desviacion_ns": 59.60883724163728,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "ternaria",
+  "lenguaje": "python",
+  "variante": "claves",
+  "n": 1000000,
+  "repeticiones_ns": [
+   4196.428,
+   3299.438,
+   3198.307,
+   3268.929,
+   3275.311
+  ],
+  "estado": "ok",
+  "promedio_ns": 3447.6826,
+  "desviacion_ns": 420.25264524009833,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "ternaria",
+  "lenguaje": "python",
+  "variante": "final",
+  "n": 1000000,
+  "repeticiones_ns": [
+   2315.897,
+   2250.533,
+   2266.717,
+   2217.554,
+   2285.917
+  ],
+  "estado": "ok",
+  "promedio_ns": 2267.3236,
+  "desviacion_ns": 36.960773149380906,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "ternaria",
+  "lenguaje": "python",
+  "variante": "inicio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   1855.28,
+   1933.809,
+   1872.893,
+   2030.128,
+   1825.748
+  ],
+  "estado": "ok",
+  "promedio_ns": 1903.5716,
+  "desviacion_ns": 81.02559870991385,
+  "tipo": "medido",
+  "observacion": ""
+ }
+]
