@@ -1,0 +1,2516 @@
+[
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 1000,
+  "repeticiones_ns": [
+   10351.0,
+   13176.0,
+   11473.0,
+   10844.0,
+   13166.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 11802.0,
+  "desviacion_ns": 1311.4665455130755,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 10000,
+  "repeticiones_ns": [
+   237170.0,
+   247694.0,
+   220260.0,
+   214567.0,
+   212479.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 226434.0,
+  "desviacion_ns": 15337.334237083052,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 100000,
+  "repeticiones_ns": [
+   5518792.0,
+   6065518.0,
+   5315974.0,
+   6049654.0,
+   5821590.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 5754305.6,
+  "desviacion_ns": 330231.8401983673,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   51576511.0,
+   52932847.0,
+   57882988.0,
+   69776562.0,
+   70417150.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 60517211.6,
+  "desviacion_ns": 9057347.814525304,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   10390.0,
+   12490.0,
+   11105.0,
+   9727.0,
+   9687.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 10679.8,
+  "desviacion_ns": 1165.6632017868626,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   237860.0,
+   259368.0,
+   240838.0,
+   250310.0,
+   237046.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 245084.4,
+  "desviacion_ns": 9567.756623158848,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   2055809.0,
+   2276705.0,
+   2374095.0,
+   3006656.0,
+   2848342.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 2512321.4,
+  "desviacion_ns": 400094.2818078009,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   25031746.0,
+   27850764.0,
+   24926534.0,
+   19245844.0,
+   21260200.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 23663017.6,
+  "desviacion_ns": 3401913.6551415883,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   10518.0,
+   15361.0,
+   10387.0,
+   10841.0,
+   12209.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 11863.2,
+  "desviacion_ns": 2084.9343394936927,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   162371.0,
+   167172.0,
+   195022.0,
+   156941.0,
+   147936.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 165888.4,
+  "desviacion_ns": 17784.34011426907,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   2445728.0,
+   2238786.0,
+   2177070.0,
+   2380619.0,
+   2265601.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 2301560.8,
+  "desviacion_ns": 109277.3107268842,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   24867009.0,
+   23517295.0,
+   28294286.0,
+   24120858.0,
+   24105582.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 24981006.0,
+  "desviacion_ns": 1913079.4107674935,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 1000,
+  "repeticiones_ns": [
+   19845.0,
+   61505.0,
+   51696.0,
+   45496.0,
+   50890.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 45886.4,
+  "desviacion_ns": 15660.73958342964,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 10000,
+  "repeticiones_ns": [
+   689279.0,
+   713719.0,
+   700697.0,
+   680238.0,
+   703072.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 697401.0,
+  "desviacion_ns": 12940.599232647613,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 100000,
+  "repeticiones_ns": [
+   9005680.0,
+   9357844.0,
+   9235385.0,
+   9857889.0,
+   9023813.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 9296122.2,
+  "desviacion_ns": 346983.24800586555,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   176176235.0,
+   171745239.0,
+   167288993.0,
+   138383987.0,
+   137119666.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 158142824.0,
+  "desviacion_ns": 18882973.980475374,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   52277.0,
+   56229.0,
+   50646.0,
+   85873.0,
+   50285.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 59062.0,
+  "desviacion_ns": 15171.985862107835,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   751479.0,
+   842894.0,
+   803075.0,
+   880954.0,
+   829290.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 821538.4,
+  "desviacion_ns": 48206.791910476684,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   6691437.0,
+   6743539.0,
+   6968826.0,
+   6944312.0,
+   6924007.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 6854424.2,
+  "desviacion_ns": 127347.66333820185,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   77937769.0,
+   80892281.0,
+   80376180.0,
+   81644451.0,
+   93203617.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 82810859.6,
+  "desviacion_ns": 5973389.6573103955,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   17451.0,
+   46347.0,
+   37948.0,
+   32082.0,
+   28494.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 32464.4,
+  "desviacion_ns": 10771.593860706038,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   615248.0,
+   802013.0,
+   757128.0,
+   795138.0,
+   755455.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 744996.4,
+  "desviacion_ns": 75591.46456644428,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   6868763.0,
+   7833316.0,
+   5477256.0,
+   5373581.0,
+   5306073.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 6171797.8,
+  "desviacion_ns": 1130864.8261426738,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   101067997.0,
+   112036813.0,
+   99036411.0,
+   93304100.0,
+   87010181.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 98491100.4,
+  "desviacion_ns": 9342651.831764085,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 1000,
+  "repeticiones_ns": [
+   86446.0,
+   61779.0,
+   59159.0,
+   59949.0,
+   68190.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 67104.6,
+  "desviacion_ns": 11379.422582011795,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 10000,
+  "repeticiones_ns": [
+   5889346.0,
+   5551417.0,
+   5438615.0,
+   5454102.0,
+   6054001.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 5677496.2,
+  "desviacion_ns": 278164.2334857233,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 100000,
+  "repeticiones_ns": [
+   553252181.0,
+   578357380.0,
+   592340479.0,
+   557588750.0,
+   628831531.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 582074064.2,
+  "desviacion_ns": 30560208.108373765,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   71164745515.0,
+   69896163011.0,
+   69756784165.0,
+   67928762257.0,
+   68101563978.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 69369603785.2,
+  "desviacion_ns": 1354036221.5313914,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   343.0,
+   849.0,
+   330.0,
+   267.0,
+   299.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 417.6,
+  "desviacion_ns": 242.94608455375445,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   2086.0,
+   2688.0,
+   2206.0,
+   1988.0,
+   1857.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 2165.0,
+  "desviacion_ns": 319.23502314125875,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   17171.0,
+   17442.0,
+   25958.0,
+   27062.0,
+   30324.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 23591.4,
+  "desviacion_ns": 5958.406229857108,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   318586.0,
+   422882.0,
+   393396.0,
+   487010.0,
+   389788.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 402332.4,
+  "desviacion_ns": 60916.46479236956,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   122747.0,
+   152810.0,
+   150684.0,
+   162900.0,
+   135073.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 144842.8,
+  "desviacion_ns": 15869.244900120484,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   11087437.0,
+   10977244.0,
+   11196522.0,
+   10942759.0,
+   10910523.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 11022897.0,
+  "desviacion_ns": 117734.0897467679,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   1309608961.0,
+   1213531219.0,
+   1105047780.0,
+   1146519509.0,
+   1073919764.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 1169725446.6,
+  "desviacion_ns": 94056882.00714423,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   150758599618.0,
+   142969126546.0,
+   141639947564.0,
+   142985112960.0,
+   144454563615.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 144561470060.6,
+  "desviacion_ns": 3604566444.6141148,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 1000,
+  "repeticiones_ns": [
+   28725.0,
+   62645.0,
+   50343.0,
+   45648.0,
+   41853.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 45842.8,
+  "desviacion_ns": 12364.680068647147,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 10000,
+  "repeticiones_ns": [
+   1170967.0,
+   1175112.0,
+   1121490.0,
+   1163172.0,
+   1129814.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 1152111.0,
+  "desviacion_ns": 24706.994495486495,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 100000,
+  "repeticiones_ns": [
+   11293134.0,
+   11323426.0,
+   11235797.0,
+   12326730.0,
+   11250364.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 11485890.2,
+  "desviacion_ns": 471322.69671553053,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   120575255.0,
+   122543152.0,
+   125814505.0,
+   125725905.0,
+   131176522.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 125167067.8,
+  "desviacion_ns": 4025378.635658974,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   25464.0,
+   30443.0,
+   28336.0,
+   27378.0,
+   34324.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 29189.0,
+  "desviacion_ns": 3384.660101103211,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   268736.0,
+   301444.0,
+   325237.0,
+   298069.0,
+   293785.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 297454.2,
+  "desviacion_ns": 20164.19164509205,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   3029488.0,
+   3156968.0,
+   3243278.0,
+   3148813.0,
+   3094653.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 3134640.0,
+  "desviacion_ns": 79305.63004919638,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   37246469.0,
+   37091440.0,
+   46929752.0,
+   46324811.0,
+   41857252.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 41889944.8,
+  "desviacion_ns": 4734349.994060822,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   22287.0,
+   24146.0,
+   21763.0,
+   21373.0,
+   62856.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 30485.0,
+  "desviacion_ns": 18127.14534889595,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   280385.0,
+   319226.0,
+   309641.0,
+   288808.0,
+   270868.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 293785.6,
+  "desviacion_ns": 20175.335394981666,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   3567354.0,
+   4574804.0,
+   3662068.0,
+   3657452.0,
+   3689014.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 3830138.4,
+  "desviacion_ns": 418797.93608708243,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   44008881.0,
+   67265696.0,
+   74629717.0,
+   64064741.0,
+   53616660.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 60717139.0,
+  "desviacion_ns": 12012832.221865313,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 1000,
+  "repeticiones_ns": [
+   14083.0,
+   23912.0,
+   17024.0,
+   14352.0,
+   13430.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 16560.2,
+  "desviacion_ns": 4332.288448383833,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 10000,
+  "repeticiones_ns": [
+   576040.0,
+   675167.0,
+   713195.0,
+   638294.0,
+   575204.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 635580.0,
+  "desviacion_ns": 60804.723430832244,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 100000,
+  "repeticiones_ns": [
+   6840928.0,
+   6848616.0,
+   6782398.0,
+   6826322.0,
+   6891771.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 6838007.0,
+  "desviacion_ns": 39498.57884785224,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   88583898.0,
+   82053288.0,
+   92568525.0,
+   86532430.0,
+   80316705.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 86010969.2,
+  "desviacion_ns": 4949275.383986902,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   93211.0,
+   94386.0,
+   139756.0,
+   98854.0,
+   108567.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 106954.8,
+  "desviacion_ns": 19306.784058977817,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   27685222.0,
+   27405206.0,
+   18875954.0,
+   18594101.0,
+   20421747.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 22596446.0,
+  "desviacion_ns": 4571923.989893806,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 100000,
+  "repeticiones_ns": [],
+  "estado": "error",
+  "promedio_ns": 2259644600.0,
+  "desviacion_ns": null,
+  "tipo": "estimado",
+  "observacion": "Falló en ejecución. StackOverflowError: la recursión del QuickSort superó la pila del hilo principal de la JVM (tamaño por defecto). Estimado = T(10.000) × g(100.000)/g(10.000) con g = n²."
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 1000000,
+  "repeticiones_ns": [],
+  "estado": "error",
+  "promedio_ns": 225964460000.0,
+  "desviacion_ns": null,
+  "tipo": "estimado",
+  "observacion": "Falló en ejecución. StackOverflowError: la recursión del QuickSort superó la pila del hilo principal de la JVM (tamaño por defecto). Estimado = T(10.000) × g(1.000.000)/g(10.000) con g = n²."
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   93349.0,
+   94169.0,
+   93692.0,
+   93692.0,
+   93811.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 93742.6,
+  "desviacion_ns": 294.33705169414196,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   18529616.0,
+   24426801.0,
+   20918085.0,
+   24110369.0,
+   21867293.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 21970432.8,
+  "desviacion_ns": 2427466.046915631,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 100000,
+  "repeticiones_ns": [],
+  "estado": "error",
+  "promedio_ns": 2197043280.0,
+  "desviacion_ns": null,
+  "tipo": "estimado",
+  "observacion": "Falló en ejecución. StackOverflowError: la recursión del QuickSort superó la pila del hilo principal de la JVM (tamaño por defecto). Estimado = T(10.000) × g(100.000)/g(10.000) con g = n²."
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 1000000,
+  "repeticiones_ns": [],
+  "estado": "error",
+  "promedio_ns": 219704328000.0,
+  "desviacion_ns": null,
+  "tipo": "estimado",
+  "observacion": "Falló en ejecución. StackOverflowError: la recursión del QuickSort superó la pila del hilo principal de la JVM (tamaño por defecto). Estimado = T(10.000) × g(1.000.000)/g(10.000) con g = n²."
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 1000,
+  "repeticiones_ns": [
+   66429.0,
+   52491.0,
+   52655.0,
+   58168.0,
+   51741.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 56296.8,
+  "desviacion_ns": 6218.219214534013,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 10000,
+  "repeticiones_ns": [
+   566571.0,
+   557126.0,
+   558373.0,
+   869880.0,
+   558054.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 622000.8,
+  "desviacion_ns": 138620.87717836731,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 100000,
+  "repeticiones_ns": [
+   5865484.0,
+   4935605.0,
+   5464908.0,
+   5357206.0,
+   5217685.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 5368177.6,
+  "desviacion_ns": 341525.21089123125,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "java",
+  "variante": "aleatorio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   57496182.0,
+   64524212.0,
+   66203787.0,
+   63957093.0,
+   57853671.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 62006989.0,
+  "desviacion_ns": 4041963.0408912078,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   53747.0,
+   74928.0,
+   52972.0,
+   53246.0,
+   52431.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 57464.8,
+  "desviacion_ns": 9773.792237407137,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   551941.0,
+   596519.0,
+   548845.0,
+   578055.0,
+   576178.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 570307.6,
+  "desviacion_ns": 19871.439852210005,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   5814680.0,
+   6450073.0,
+   6196128.0,
+   4338962.0,
+   4601107.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 5480190.0,
+  "desviacion_ns": 953980.0944603089,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "java",
+  "variante": "ascendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   53181551.0,
+   61013218.0,
+   57951159.0,
+   54750016.0,
+   56883452.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 56755879.2,
+  "desviacion_ns": 3015344.571355105,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   53510.0,
+   54424.0,
+   53878.0,
+   53364.0,
+   52216.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 53478.4,
+  "desviacion_ns": 815.7173530089941,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   530661.0,
+   554016.0,
+   547974.0,
+   555630.0,
+   527228.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 543101.8,
+  "desviacion_ns": 13290.644461424736,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   5733223.0,
+   5784793.0,
+   5416381.0,
+   5565967.0,
+   5579125.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 5615897.8,
+  "desviacion_ns": 146580.2410190405,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "java",
+  "variante": "descendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   62162064.0,
+   61382542.0,
+   58605523.0,
+   75008508.0,
+   79154126.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 67262552.6,
+  "desviacion_ns": 9178003.773921855,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 1000,
+  "repeticiones_ns": [
+   558540.0,
+   268068.0,
+   258875.0,
+   255434.0,
+   274974.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 323178.2,
+  "desviacion_ns": 131795.42300929877,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 10000,
+  "repeticiones_ns": [
+   3886077.0,
+   4699697.0,
+   3108624.0,
+   3032386.0,
+   3209607.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 3587278.2,
+  "desviacion_ns": 708238.4911847844,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 100000,
+  "repeticiones_ns": [
+   85932941.0,
+   88268934.0,
+   102995191.0,
+   92525985.0,
+   82971353.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 90538880.8,
+  "desviacion_ns": 7790106.9283436155,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   1761583946.0,
+   1571092625.0,
+   1788890130.0,
+   1447962682.0,
+   1344234433.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 1582752763.2,
+  "desviacion_ns": 193435082.51285926,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   735817.0,
+   310109.0,
+   301807.0,
+   339465.0,
+   313777.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 400195.0,
+  "desviacion_ns": 188144.90190276218,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   3928244.0,
+   4801316.0,
+   3676436.0,
+   4010291.0,
+   3731201.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 4029497.6,
+  "desviacion_ns": 452757.7118451987,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   49572066.0,
+   48762563.0,
+   53769459.0,
+   44164324.0,
+   45386119.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 48330906.2,
+  "desviacion_ns": 3786054.6972789103,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   778820919.0,
+   749335725.0,
+   726495878.0,
+   675390893.0,
+   719792867.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 729967256.4,
+  "desviacion_ns": 38262141.97797708,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   640241.0,
+   375976.0,
+   335068.0,
+   319143.0,
+   370861.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 408257.8,
+  "desviacion_ns": 131866.4426103169,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   6410594.0,
+   6815419.0,
+   5270128.0,
+   5252471.0,
+   5469641.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 5843650.6,
+  "desviacion_ns": 721814.2619644613,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   45747406.0,
+   40976326.0,
+   45169510.0,
+   40547544.0,
+   40485721.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 42585301.4,
+  "desviacion_ns": 2637543.1041396842,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "bucket",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   648225159.0,
+   667195782.0,
+   648281258.0,
+   651804251.0,
+   593860744.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 641873438.8,
+  "desviacion_ns": 27957402.662117857,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 1000,
+  "repeticiones_ns": [
+   2811628.0,
+   2868561.0,
+   2882741.0,
+   2867484.0,
+   2885041.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 2863091.0,
+  "desviacion_ns": 29856.258631985354,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 10000,
+  "repeticiones_ns": [
+   40753624.0,
+   41438816.0,
+   40858769.0,
+   40506893.0,
+   40599815.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 40831583.4,
+  "desviacion_ns": 365612.02198819997,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 100000,
+  "repeticiones_ns": [
+   398151026.0,
+   441180105.0,
+   522427276.0,
+   556562846.0,
+   502013247.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 484066900.0,
+  "desviacion_ns": 63777085.60779609,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   9378209642.0,
+   9118669125.0,
+   9098997027.0,
+   8068751556.0,
+   8692517695.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 8871429009.0,
+  "desviacion_ns": 511380934.2339124,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   2743149.0,
+   2683906.0,
+   2644818.0,
+   2750367.0,
+   3185655.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 2801579.0,
+  "desviacion_ns": 219073.07780167786,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   30489101.0,
+   28818269.0,
+   28891337.0,
+   32247285.0,
+   28781525.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 29845503.4,
+  "desviacion_ns": 1523192.9286800146,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   410301098.0,
+   402865459.0,
+   478671707.0,
+   366299487.0,
+   382731698.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 408173889.8,
+  "desviacion_ns": 43021556.85146049,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   5018781144.0,
+   4918252527.0,
+   4900711467.0,
+   5486250802.0,
+   5410712792.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 5146941746.4,
+  "desviacion_ns": 280204857.77364546,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   1891963.0,
+   1968803.0,
+   1779195.0,
+   1846453.0,
+   1799565.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 1857195.8,
+  "desviacion_ns": 76134.36633478997,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   27136994.0,
+   31734757.0,
+   35888231.0,
+   36172794.0,
+   28054936.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 31797542.4,
+  "desviacion_ns": 4231084.84451651,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   376691907.0,
+   350359048.0,
+   487757469.0,
+   490729708.0,
+   460494241.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 433206474.6,
+  "desviacion_ns": 65358526.62655813,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "heap",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   4837915845.0,
+   4318786986.0,
+   4649099346.0,
+   5038340263.0,
+   4687360157.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 4706300519.4,
+  "desviacion_ns": 265221810.6590599,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 1000,
+  "repeticiones_ns": [
+   23123983.0,
+   17868406.0,
+   17781023.0,
+   18351065.0,
+   21655889.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 19756073.2,
+  "desviacion_ns": 2469325.580366469,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 10000,
+  "repeticiones_ns": [
+   2011022168.0,
+   1851777164.0,
+   1841956193.0,
+   1728351007.0,
+   1924804518.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 1871582210.0,
+  "desviacion_ns": 104953840.09061107,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 100000,
+  "repeticiones_ns": [
+   218843613800.0,
+   212021946704.0,
+   205236707270.0,
+   204825731000.0,
+   216470559076.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 211479711570.0,
+  "desviacion_ns": 6377307306.721337,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 1000000,
+  "repeticiones_ns": [],
+  "estado": "omitido_prediccion",
+  "promedio_ns": 21147971157000.0,
+  "desviacion_ns": null,
+  "tipo": "estimado",
+  "observacion": "No ejecutado: se predijo 21148 s por ejecución (> 300 s). Estimado = T(100.000) × g(1.000.000)/g(100.000) con g = n²."
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   75527.0,
+   78861.0,
+   72229.0,
+   70184.0,
+   67210.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 72802.2,
+  "desviacion_ns": 4543.9471497806835,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   997824.0,
+   861957.0,
+   826520.0,
+   815784.0,
+   847383.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 869893.6,
+  "desviacion_ns": 73730.96697656962,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   7504771.0,
+   7478853.0,
+   7677301.0,
+   8907369.0,
+   7359464.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 7785551.6,
+  "desviacion_ns": 637307.7927491551,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   73442622.0,
+   81643215.0,
+   79151310.0,
+   83361726.0,
+   112484508.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 86016676.2,
+  "desviacion_ns": 15264027.447811052,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   44654206.0,
+   44223873.0,
+   45441393.0,
+   32317378.0,
+   32909970.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 39909364.0,
+  "desviacion_ns": 6677604.850624174,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   3786698602.0,
+   4091741986.0,
+   3753590420.0,
+   4035307762.0,
+   3810265623.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 3895520878.6,
+  "desviacion_ns": 155963214.6775339,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 100000,
+  "repeticiones_ns": [],
+  "estado": "omitido_prediccion",
+  "promedio_ns": 389552087860.00006,
+  "desviacion_ns": null,
+  "tipo": "estimado",
+  "observacion": "No ejecutado: se predijo 390 s por ejecución (> 300 s). Estimado = T(10.000) × g(100.000)/g(10.000) con g = n²."
+ },
+ {
+  "algoritmo": "insertion",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 1000000,
+  "repeticiones_ns": [],
+  "estado": "omitido_prediccion",
+  "promedio_ns": 38955208786000.0,
+  "desviacion_ns": null,
+  "tipo": "estimado",
+  "observacion": "No ejecutado: se predijo 38955 s por ejecución (> 300 s). Estimado = T(10.000) × g(1.000.000)/g(10.000) con g = n²."
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 1000,
+  "repeticiones_ns": [
+   2217327.0,
+   2423572.0,
+   2347795.0,
+   2547351.0,
+   2440212.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 2395251.4,
+  "desviacion_ns": 122338.67159774133,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 10000,
+  "repeticiones_ns": [
+   21224436.0,
+   21587754.0,
+   21645434.0,
+   21700867.0,
+   21723136.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 21576325.4,
+  "desviacion_ns": 203590.71916912126,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 100000,
+  "repeticiones_ns": [
+   224651767.0,
+   232520048.0,
+   329412055.0,
+   321672411.0,
+   298104168.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 281272089.8,
+  "desviacion_ns": 49536813.56500548,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   3902404172.0,
+   4233334809.0,
+   4297107744.0,
+   3979444215.0,
+   4351006606.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 4152659509.2,
+  "desviacion_ns": 199591231.8248992,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   1599248.0,
+   1554346.0,
+   1482554.0,
+   1483575.0,
+   1684566.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 1560857.8,
+  "desviacion_ns": 85035.35443096595,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   20051964.0,
+   19017362.0,
+   18866807.0,
+   19155339.0,
+   19079520.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 19234198.4,
+  "desviacion_ns": 469275.8394849452,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   222103058.0,
+   252854171.0,
+   231135553.0,
+   232988485.0,
+   227483382.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 233312929.8,
+  "desviacion_ns": 11687078.282433582,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   2871351235.0,
+   3442307152.0,
+   2813280438.0,
+   3118761646.0,
+   2925664253.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 3034272944.8,
+  "desviacion_ns": 255346467.76302108,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   1553669.0,
+   1449398.0,
+   1426688.0,
+   1527522.0,
+   1445036.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 1480462.6,
+  "desviacion_ns": 56315.01819053244,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   22393730.0,
+   19947829.0,
+   21752685.0,
+   22296625.0,
+   20751158.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 21428405.4,
+  "desviacion_ns": 1053753.3669233518,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   250980352.0,
+   291890111.0,
+   275759567.0,
+   237574479.0,
+   348742572.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 280989416.2,
+  "desviacion_ns": 43364926.19870414,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "merge",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   3168466253.0,
+   2965880400.0,
+   2848946402.0,
+   2860018158.0,
+   2888315897.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 2946325422.0,
+  "desviacion_ns": 132311817.60145497,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 1000,
+  "repeticiones_ns": [
+   669485.0,
+   665013.0,
+   644121.0,
+   633230.0,
+   649629.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 652295.6,
+  "desviacion_ns": 14955.263949526267,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 10000,
+  "repeticiones_ns": [
+   8812999.0,
+   8728641.0,
+   9199880.0,
+   8737463.0,
+   8839449.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 8863686.4,
+  "desviacion_ns": 193876.51193943014,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 100000,
+  "repeticiones_ns": [
+   157617913.0,
+   164296298.0,
+   169031164.0,
+   159954922.0,
+   184985458.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 167177151.0,
+  "desviacion_ns": 10867521.5583765,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   2560083016.0,
+   2800888915.0,
+   3003821724.0,
+   2724646271.0,
+   2863356513.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 2790559287.8,
+  "desviacion_ns": 164583445.04792556,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   17541543.0,
+   18105692.0,
+   17232455.0,
+   18480615.0,
+   19312047.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 18134470.4,
+  "desviacion_ns": 817393.0530643137,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 10000,
+  "repeticiones_ns": [],
+  "estado": "error",
+  "promedio_ns": 1813447039.9999998,
+  "desviacion_ns": null,
+  "tipo": "estimado",
+  "observacion": "Falló en ejecución. RecursionError: la profundidad de recursión superó el límite por defecto de Python (1000 marcos). Estimado = T(1.000) × g(10.000)/g(1.000) con g = n²."
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 100000,
+  "repeticiones_ns": [],
+  "estado": "error",
+  "promedio_ns": 181344704000.0,
+  "desviacion_ns": null,
+  "tipo": "estimado",
+  "observacion": "Falló en ejecución. RecursionError: la profundidad de recursión superó el límite por defecto de Python (1000 marcos). Estimado = T(1.000) × g(100.000)/g(1.000) con g = n²."
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 1000000,
+  "repeticiones_ns": [],
+  "estado": "error",
+  "promedio_ns": 18134470399999.996,
+  "desviacion_ns": null,
+  "tipo": "estimado",
+  "observacion": "Falló en ejecución. RecursionError: la profundidad de recursión superó el límite por defecto de Python (1000 marcos). Estimado = T(1.000) × g(1.000.000)/g(1.000) con g = n²."
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   18049254.0,
+   22395728.0,
+   21617198.0,
+   20947775.0,
+   21158246.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 20833640.2,
+  "desviacion_ns": 1652670.8164033152,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 10000,
+  "repeticiones_ns": [],
+  "estado": "error",
+  "promedio_ns": 2083364020.0,
+  "desviacion_ns": null,
+  "tipo": "estimado",
+  "observacion": "Falló en ejecución. RecursionError: la profundidad de recursión superó el límite por defecto de Python (1000 marcos). Estimado = T(1.000) × g(10.000)/g(1.000) con g = n²."
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 100000,
+  "repeticiones_ns": [],
+  "estado": "error",
+  "promedio_ns": 208336402000.0,
+  "desviacion_ns": null,
+  "tipo": "estimado",
+  "observacion": "Falló en ejecución. RecursionError: la profundidad de recursión superó el límite por defecto de Python (1000 marcos). Estimado = T(1.000) × g(100.000)/g(1.000) con g = n²."
+ },
+ {
+  "algoritmo": "quicksort_dual",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 1000000,
+  "repeticiones_ns": [],
+  "estado": "error",
+  "promedio_ns": 20833640200000.0,
+  "desviacion_ns": null,
+  "tipo": "estimado",
+  "observacion": "Falló en ejecución. RecursionError: la profundidad de recursión superó el límite por defecto de Python (1000 marcos). Estimado = T(1.000) × g(1.000.000)/g(1.000) con g = n²."
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 1000,
+  "repeticiones_ns": [
+   1838459.0,
+   1630444.0,
+   1724636.0,
+   1670814.0,
+   2058310.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 1784532.6,
+  "desviacion_ns": 171846.54542294412,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 10000,
+  "repeticiones_ns": [
+   23627199.0,
+   17411214.0,
+   16967773.0,
+   17484482.0,
+   19363685.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 18970870.6,
+  "desviacion_ns": 2760886.501504236,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 100000,
+  "repeticiones_ns": [
+   417356823.0,
+   449119978.0,
+   234585730.0,
+   231765321.0,
+   250776517.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 316720873.8,
+  "desviacion_ns": 107202382.26913781,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "python",
+  "variante": "aleatorio",
+  "n": 1000000,
+  "repeticiones_ns": [
+   4880576730.0,
+   5253749597.0,
+   4750137482.0,
+   4806235795.0,
+   4547216110.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 4847583142.8,
+  "desviacion_ns": 258594943.7274653,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   1567474.0,
+   1630906.0,
+   1529318.0,
+   1452451.0,
+   1555040.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 1547037.8,
+  "desviacion_ns": 64761.4902793319,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   16424211.0,
+   16270761.0,
+   17197216.0,
+   18741102.0,
+   16539350.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 17034528.0,
+  "desviacion_ns": 1017336.0218337401,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   258498248.0,
+   218678409.0,
+   237302729.0,
+   207479637.0,
+   214260101.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 227243824.8,
+  "desviacion_ns": 20679622.060163,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "python",
+  "variante": "ascendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   3148148494.0,
+   3975171954.0,
+   3176353191.0,
+   2961263542.0,
+   3070517606.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 3266290957.4,
+  "desviacion_ns": 404946799.0019931,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 1000,
+  "repeticiones_ns": [
+   1590325.0,
+   1656403.0,
+   1641588.0,
+   1566966.0,
+   1711742.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 1633404.8,
+  "desviacion_ns": 57014.4327841644,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 10000,
+  "repeticiones_ns": [
+   24513024.0,
+   23137834.0,
+   22885833.0,
+   23285285.0,
+   20428718.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 22850138.8,
+  "desviacion_ns": 1491799.3077524537,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 100000,
+  "repeticiones_ns": [
+   235977040.0,
+   210107903.0,
+   203352053.0,
+   205404613.0,
+   201369099.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 211242141.6,
+  "desviacion_ns": 14203071.010464033,
+  "tipo": "medido",
+  "observacion": ""
+ },
+ {
+  "algoritmo": "radix",
+  "lenguaje": "python",
+  "variante": "descendente",
+  "n": 1000000,
+  "repeticiones_ns": [
+   3032732975.0,
+   3293692324.0,
+   3125758338.0,
+   3109848111.0,
+   4185873374.0
+  ],
+  "estado": "ok",
+  "promedio_ns": 3349581024.4,
+  "desviacion_ns": 477092651.36738354,
+  "tipo": "medido",
+  "observacion": ""
+ }
+]
